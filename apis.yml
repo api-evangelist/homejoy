@@ -1,7 +1,30 @@
 aid: homejoy
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/homejoy.png
 name: HomeJoy
-description: HomeJoy is a company surfaced as a portfolio company of a16z and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Homejoy, Inc. was an online home-services marketplace that connected customers with
+  vetted house cleaners and handymen through its website and mobile apps. Founded in 2010
+  by siblings Adora and Aaron Cheung, the Y Combinator-backed company raised roughly
+  $40M (Google Ventures, Redpoint, First Round, Max Levchin) and expanded to more than
+  30 cities across the US, UK, Canada, France and Germany. Battered by high customer
+  churn, discount-driven growth and worker-misclassification lawsuits, Homejoy ceased
+  operations on July 31, 2015; much of its product and engineering team was acqui-hired
+  by Google. This is an archival API Evangelist profile of a defunct company: it operates
+  no public API, developer portal, or SDKs, and its former homejoy.com domain now
+  redirects to an unrelated cleaning service.
+x-status: defunct
+x-defunct-date: '2015-07-31'
 url: https://raw.githubusercontent.com/api-evangelist/homejoy/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,12 +34,24 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Home Services
+- Marketplace
+- On-Demand
+- Gig Economy
+- Cleaning Services
+- Defunct
+- Y Combinator
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
