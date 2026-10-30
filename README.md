@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-HomeJoy is a company surfaced as a portfolio company of a16z and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: a16z
+Homejoy, Inc. was an online home-services marketplace that connected customers with vetted house cleaners and handymen through its website and mobile apps. Founded in 2010 by siblings Adora and Aaron Cheung, the Y Combinator-backed company raised roughly $40M (Google Ventures, Redpoint, First Round, Max Levchin) and expanded to more than 30 cities across the US, UK, Canada, France and Germany. Battered by high customer churn, discount-driven growth and worker-misclassification lawsuits, Homejoy ceased operations on July 31, 2015; much of its product and engineering team was acqui-hired by Google. This is an archival API Evangelist profile of a defunct company: it operates no public API, developer portal, or SDKs, and its former homejoy.com domain now redirects to an unrelated cleaning service.
+
+**Areas:** Company · Home Services · Marketplace · On-Demand · Gig Economy · Cleaning Services · Defunct · Y Combinator
+
+## HomeJoy on APIs.io (historical record)
+
+Everything profiled for HomeJoy is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/homejoy/](https://apis.io/providers/homejoy/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for HomeJoy: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/homejoy/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
